@@ -8,6 +8,8 @@
 
 ## Installation
 
+- **Download [Python](https://www.python.org/downloads/)**
+
 1. **Download [webparser.py](https://github.com/StarList682/webparser/archive/refs/heads/main.zip)**
 
 2. **[Download VS Code](https://code.visualstudio.com/)**
