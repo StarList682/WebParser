@@ -8,30 +8,30 @@
 
 ## Installation
 
-- **Download [Python](https://www.python.org/downloads/)**
+1. **Download [Python](https://www.python.org/downloads/)**
 
-1. **Download [webparser.py](https://github.com/StarList682/webparser/archive/refs/heads/main.zip)**
+2. **Download [webparser.py](https://github.com/StarList682/webparser/archive/refs/heads/main.zip)**
 
-2. **[Download VS Code](https://code.visualstudio.com/)**
+3. **[Download VS Code](https://code.visualstudio.com/)**
 
-3. **Open `mine.py` in VS Code and open the terminal in VS Code**
+4. **Open `mine.py` in VS Code and open the terminal in VS Code**
 
-4. **Library Installation**
+5. **Library Installation**
 
    ```bash
    pip install requests
    ```
-   ```bash
+6. ```bash
    pip install beautifulsoup4
    ```
 
-6. **Usage**
+7. **Usage**
 
    ```bash
    python mine.py
    ```
 
-   The extracted data will be saved in `website_data.txt`.
+  - The extracted data will be saved in `website_data.txt`.
 
 ---
 
